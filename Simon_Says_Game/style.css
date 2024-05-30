@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+.btn-container{
+    
+    width:350px;
+    display:flex;
+    justify-content:center;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    margin:5px auto;
+}
+.btn{
+    height:150px;
+    width:150px;
+    border:5px solid black;
+    margin:5px 5px;
+    border-radius:20px;
+}
+.red{
+    background-color: indianred;
+}
+.green{
+    background-color: cadetblue;
+}
+.orange{
+    background-color: chocolate;
+}
+.blue{
+    background-color:cornflowerblue;
+}
+.gameFlash{
+    background-color: white;
+}
+.userFlash{
+    background-color: green;
+}
+h3{
+    text-align:left;
+}
